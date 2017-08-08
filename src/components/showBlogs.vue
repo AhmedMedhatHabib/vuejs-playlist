@@ -29,6 +29,7 @@ export default {
 <style>
 #show-blogs{
     max-width: 800px;
+    width: 80vw;
     margin: 0px auto;
 }
 .single-blog{
